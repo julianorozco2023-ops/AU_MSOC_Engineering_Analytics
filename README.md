@@ -7,4 +7,5 @@ While the use of soccer game statistics that are always shown on a website like 
   - Where does the team tend to lose the ball?
   - What can be done to improve this issue? 
   - Do we lose the ball more towards the end of the game? is it fatigue that plays a part?
+
 There are a lot more questions that can be answered with the data that is going to be gathered, but that will be figured out as the project goes on. 
