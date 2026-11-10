@@ -9,3 +9,5 @@ While the use of soccer game statistics that are always shown on a website like 
   - Do we lose the ball more towards the end of the game? is it fatigue that plays a part?
 
 There are a lot more questions that can be answered with the data that is going to be gathered, but that will be figured out as the project goes on. 
+
+So far, based on the data I have tagged so far, I'm able to determine simple statistics. An example being that I can state my team has approximately 54% of the the turnovers in match 1. These don't include all possession losses, these are specified turnovers which include a bad pass, a bad touch or just simply being dispossessed. Later on I will create a view which holds more of a "we lost the ball more than they did" percentage.
